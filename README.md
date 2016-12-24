@@ -1,0 +1,2 @@
+# mnist
+code for MNIST
